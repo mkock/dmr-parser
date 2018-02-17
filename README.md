@@ -1,2 +1,3 @@
 # dmr-parser
-XML parser for DMR (Dansk Motor Register) for OmniCar
+
+XML parser for DMR (Dansk Motor Register) for OmniCar.
